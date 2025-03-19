@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      arma_dropada_0: -2874609332408712295
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

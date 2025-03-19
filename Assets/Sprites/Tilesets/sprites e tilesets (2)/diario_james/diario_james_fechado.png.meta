@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      diario_james_fechado_0: -8810239837359615217
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

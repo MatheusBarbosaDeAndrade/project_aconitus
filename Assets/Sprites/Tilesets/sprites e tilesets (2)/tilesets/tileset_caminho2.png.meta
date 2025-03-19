@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tileset_caminho2_0: 1442713681465915214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

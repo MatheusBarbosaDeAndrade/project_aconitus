@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      brilho_de_item6_0: 4601387442052431078
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

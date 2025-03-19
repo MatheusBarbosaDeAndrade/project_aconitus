@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      casa_lenhador_porta_aberta_0: 9128728442052706929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

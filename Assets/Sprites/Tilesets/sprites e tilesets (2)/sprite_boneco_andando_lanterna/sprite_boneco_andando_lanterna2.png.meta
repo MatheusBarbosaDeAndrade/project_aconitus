@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprite_boneco_andando_lanterna2_0: 889871481207252852
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

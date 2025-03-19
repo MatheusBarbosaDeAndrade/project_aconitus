@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprite_boneco_relaxado_lanterna3_0: 635627919901001313
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      diario_aberto_inventario_telacheia_0: -1669820370045562066
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

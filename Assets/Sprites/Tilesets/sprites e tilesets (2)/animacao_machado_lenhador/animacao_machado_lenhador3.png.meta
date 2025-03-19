@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      animacao_machado_lenhador3_0: -6284927105328241910
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

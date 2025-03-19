@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      casa_lenhador_0: 5406278409150544162
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

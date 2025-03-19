@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pocao_de_cura_0: -3598434131854916582
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      machado_lenhador_droppado1_0: 311103994264967395
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

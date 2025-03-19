@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tentativa_chao_0: 3526376905719509860
+      tentativa_chao_1: -4192178173735459745
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

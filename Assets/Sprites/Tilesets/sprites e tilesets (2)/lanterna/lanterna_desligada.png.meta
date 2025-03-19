@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lanterna_desligada_0: 4591710678644688147
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
