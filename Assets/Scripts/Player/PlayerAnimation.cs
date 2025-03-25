@@ -24,7 +24,14 @@ public class NewMonoBehaviourScript : MonoBehaviour
     {
         if (playerMov.direction.sqrMagnitude > 0)
         {
-            animator.SetInteger("transition", 1);
+            if (playerMov.direction.y > 0)
+            {
+                animator.SetInteger("transition", 2);
+            }
+            else if(playerMov)
+            {
+                animator.SetInteger("transition", 1);
+            }
         }
         else
         {
